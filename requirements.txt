@@ -1,0 +1,4 @@
+tensorflow>=2.10
+tensorflow-hub>=0.15
+tensorflow-datasets>=4.9
+numpy>=1.24
